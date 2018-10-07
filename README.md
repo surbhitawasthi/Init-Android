@@ -6,5 +6,5 @@ Initial steps towards Android Development
 - A simple single screen birthday card app for understanding TextView, ImageView and Layouts.
 
 
-> Any resource contribution is accepted gladly and thanked for in advance.
+> Any resource contribution is accepted gladly and thanked for in advance. <br>
 > Please contribute resources in **Android Resourses**
